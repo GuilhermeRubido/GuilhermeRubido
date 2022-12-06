@@ -1,4 +1,4 @@
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Hi, I'm <strong>Guilherme!</strong>
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Hi, I'm <strong>Guilherme!</strong> 
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
@@ -26,3 +26,4 @@
 
 ## ⭐ My GitHub informations
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRubido&show_icons=true)
+<img align="right" width="515" src="https://www.drawingnow.com/file/pic/photo/2013/11/hikari_chan-HunterxHunter-gif_500.gif"/>
