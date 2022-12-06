@@ -1,4 +1,4 @@
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Hi, I'm <strong>Guilherme!</strong> 
+## <img width="120" alt="about" src="https://pa1.narvii.com/6633/a3c88a5091109d374c92214aa75d505745df2772_hq.gif"> Hi, I'm <strong>Guilherme!</strong> 
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
