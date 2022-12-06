@@ -4,7 +4,6 @@
 
 > Programming student at Trybe with a major focus on JavaScript, React, MySQL, TypeScript, HTML and CSS.
 
-💬 
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:rubidoguilherme@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/guilherme-rubido-954ba8231/)
 
