@@ -2,7 +2,8 @@
 
 > Programming student at Trybe with a major focus on JavaScript, React, MySQL, TypeScript, HTML and CSS.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 E-mail: rubidoguilherme@gmail.com | Linkedin: https://www.linkedin.com/in/guilherme-rubido-954ba8231/
+
 
 ----
 
