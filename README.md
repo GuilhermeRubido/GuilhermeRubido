@@ -1,4 +1,4 @@
-## 💜 Hi, I'm <strong>{Guilherme}!</strong>
+## 💜 Hi, I'm <strong>Guilherme!</strong>
 
 > Programming student at Trybe with a major focus on JavaScript, React, MySQL, TypeScript, HTML and CSS.
 
