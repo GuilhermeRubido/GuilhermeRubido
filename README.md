@@ -1,4 +1,4 @@
-## 💚 Hi, I'm <strong>Guilherme!</strong>
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Hi, I'm <strong>Guilherme!</strong>
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
@@ -6,6 +6,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:rubidoguilherme@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/guilherme-rubido-954ba8231/)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/GuilhermeRubido?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
 
 ----
