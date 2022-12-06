@@ -23,5 +23,5 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ My GitHub informations
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRubido&show_icons=true)
