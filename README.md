@@ -1,5 +1,7 @@
 ## 💜 Hi, I'm <strong>Guilherme!</strong>
 
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 > Programming student at Trybe with a major focus on JavaScript, React, MySQL, TypeScript, HTML and CSS.
 
 💬 E-mail: rubidoguilherme@gmail.com | Linkedin: https://www.linkedin.com/in/guilherme-rubido-954ba8231/
