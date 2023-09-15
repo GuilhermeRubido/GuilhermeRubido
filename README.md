@@ -4,7 +4,7 @@
 
 > Programmer graduated from Trybe's Web Development course with a major focus on JavaScript, React, MySQL, TypeScript, HTML and CSS.
 
-<img align="right" width="1100" src="https://github.com/GuilhermeRubido/GuilhermeRubido/assets/99998674/203e1033-79aa-4396-97c7-078b16cbd4e8"/>
+<img align="right" width="1050" src="https://github.com/GuilhermeRubido/GuilhermeRubido/assets/99998674/203e1033-79aa-4396-97c7-078b16cbd4e8"/>
 
 https://my-portfolio-ten-khaki.vercel.app/
 
