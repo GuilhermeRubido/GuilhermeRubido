@@ -39,5 +39,4 @@
 
 ## ⭐ My GitHub informations
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRubido&show_icons=true)
-![Snake animation](https://github-readme-stats.vercel.app/api?username=GuilhermeRubido&show_icons=true)
 <img align="right" width="1100" src="https://64.media.tumblr.com/6fa4b2f5f196082f324f90fbcdc87b9e/tumblr_osiu7yDpKb1shdhdjo1_540.gif"/>
