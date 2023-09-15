@@ -1,9 +1,7 @@
-## <img width="120" alt="about" src="https://pa1.narvii.com/6633/a3c88a5091109d374c92214aa75d505745df2772_hq.gif"> Hi, I'm <strong> Guilherme!</strong> 
+## <img width="120" alt="about" src="https://pa1.narvii.com/6633/a3c88a5091109d374c92214aa75d505745df2772_hq.gif"> Hi, I'm <strong> Guilherme!</strong>  <img align="right" width="200" src="https://i.pinimg.com/originals/7f/8a/d6/7f8ad62db20ee2e2a9a28de8cae3102e.gif"/>
 
 ## Programmer graduated from Trybe's Web Development course with a major focus on JavaScript, React, MySQL, TypeScript, HTML and CSS.
 
-
-<img align="right" width="300" src="https://i.pinimg.com/originals/7f/8a/d6/7f8ad62db20ee2e2a9a28de8cae3102e.gif"/>
 <img align="right" width="950" src="https://github.com/GuilhermeRubido/GuilhermeRubido/assets/99998674/203e1033-79aa-4396-97c7-078b16cbd4e8"/>
 
 
