@@ -1,4 +1,4 @@
-## <img width="140" alt="about" src="https://pa1.narvii.com/6633/a3c88a5091109d374c92214aa75d505745df2772_hq.gif"> Hi, I'm <strong>Guilherme!</strong> 
+## <img align-itens="center" width="120" alt="about" src="https://pa1.narvii.com/6633/a3c88a5091109d374c92214aa75d505745df2772_hq.gif"> Hi, I'm <strong> Guilherme!</strong> 
 
 > Programmer graduated from Trybe's Web Development course with a major focus on JavaScript, React, MySQL, TypeScript, HTML and CSS.
 
