@@ -3,8 +3,8 @@
 <img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 > Programmer graduated from Trybe's Web Development course with a major focus on JavaScript, React, MySQL, TypeScript, HTML and CSS.
->
-> <link>https://my-portfolio-ten-khaki.vercel.app/</link>
+
+https://my-portfolio-ten-khaki.vercel.app/
 
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:rubidoguilherme@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/guilherme-rubido-954ba8231/)
