@@ -8,8 +8,7 @@
 ----
 
 
-To access this portfolio click on the "Portfolio" button below ⬇️
-
+> To access this portfolio click on the "Portfolio" button below ⬇️
 ----
 
 ## ✉️ Contact me!
