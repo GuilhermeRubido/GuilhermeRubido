@@ -3,7 +3,7 @@
 ## Programmer graduated from Trybe's Web Development course with a major focus on JavaScript, React, MySQL, TypeScript, HTML and CSS.
 
 
-<img align="right" width="500" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-do-studio-ghibli-5.gif"/>
+<img align="right" width="500" src="[https://gifs.eco.br/wp-content/uploads/2022/11/gifs-do-studio-ghibli-5.gif](https://i.pinimg.com/originals/7f/8a/d6/7f8ad62db20ee2e2a9a28de8cae3102e.gif)"/>
 <img align="right" width="950" src="https://github.com/GuilhermeRubido/GuilhermeRubido/assets/99998674/203e1033-79aa-4396-97c7-078b16cbd4e8"/>
 
 
