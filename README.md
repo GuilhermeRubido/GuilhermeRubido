@@ -2,7 +2,7 @@
 
 > Programmer graduated from Trybe's Web Development course with a major focus on JavaScript, React, MySQL, TypeScript, HTML and CSS.
 
-<img border="1px solid white" align="right" width="950" src="https://github.com/GuilhermeRubido/GuilhermeRubido/assets/99998674/203e1033-79aa-4396-97c7-078b16cbd4e8"/>
+<img align="right" width="950" src="https://github.com/GuilhermeRubido/GuilhermeRubido/assets/99998674/203e1033-79aa-4396-97c7-078b16cbd4e8"/>
 
 
 ----
@@ -17,6 +17,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubidoguilherme@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rubido-954ba8231/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/guilherme.rubido/?next=%2F)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCywCINRbvKKG93tyFiID4dw)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/GuilhermeRubido?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
 
