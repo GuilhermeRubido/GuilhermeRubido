@@ -21,6 +21,9 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@guilhermerubido)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/GuilhermeRubido?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
+<img align="right" width="400" src="https://openseauserdata.com/files/7cf0fd9c161fe42a044c2eac43c44f6d.gif"/>
+
+
 
 ----
 
