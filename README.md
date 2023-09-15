@@ -11,7 +11,7 @@
 > To access this portfolio click on the "Portfolio" button below ⬇️
 ----
 
-## ✉️ CONTACT ME!
+<h1> ✉️ CONTACT ME! </h1> 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://my-portfolio-ten-khaki.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubidoguilherme@gmail.com)
@@ -24,7 +24,7 @@
 
 ----
 
-🚀 <h1> SKILLS </h1> <img align="right" width="200" src="https://openseauserdata.com/files/7cf0fd9c161fe42a044c2eac43c44f6d.gif"/>
+ <h1> 🚀 SKILLS </h1> <img align="right" width="200" src="https://openseauserdata.com/files/7cf0fd9c161fe42a044c2eac43c44f6d.gif"/>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
