@@ -24,7 +24,7 @@
 
 ----
 
-## 🚀 Skills
+## 🚀 Skills <img align="right" width="200" src="https://openseauserdata.com/files/7cf0fd9c161fe42a044c2eac43c44f6d.gif"/>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -35,8 +35,10 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
----
+
+
+-----------
 
 ## ⭐ My GitHub informations
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRubido&show_icons=true) <img align="right" width="360" src="https://openseauserdata.com/files/7cf0fd9c161fe42a044c2eac43c44f6d.gif"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRubido&show_icons=true)
 <img align="right" width="1100" src="https://64.media.tumblr.com/6fa4b2f5f196082f324f90fbcdc87b9e/tumblr_osiu7yDpKb1shdhdjo1_540.gif"/>
