@@ -36,9 +36,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
 
-
------------
-
 ## ⭐ My GitHub informations
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRubido&show_icons=true)
 <img align="right" width="1100" src="https://64.media.tumblr.com/6fa4b2f5f196082f324f90fbcdc87b9e/tumblr_osiu7yDpKb1shdhdjo1_540.gif"/>
