@@ -1,4 +1,4 @@
-## <img width="120" alt="about" src="https://pa1.narvii.com/6633/a3c88a5091109d374c92214aa75d505745df2772_hq.gif"> Hi, I'm <strong> Guilherme!</strong>  <img align="right" width="410" src="https://www.drawingnow.com/file/pic/photo/2013/11/hikari_chan-HunterxHunter-gif_500.gif"/>
+## <img width="120" alt="about" src="https://pa1.narvii.com/6633/a3c88a5091109d374c92214aa75d505745df2772_hq.gif"> Hi, I'm <strong> Guilherme!</strong>  <img align="right" width="400" src="https://www.drawingnow.com/file/pic/photo/2013/11/hikari_chan-HunterxHunter-gif_500.gif"/>
 
 ## Programmer graduated from Trybe's Web Development course with a major focus on JavaScript, React, MySQL, TypeScript, HTML and CSS.
 
