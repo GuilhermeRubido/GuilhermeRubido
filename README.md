@@ -4,6 +4,8 @@
 
 > Programmer graduated from Trybe's Web Development course with a major focus on JavaScript, React, MySQL, TypeScript, HTML and CSS.
 
+![Captura de tela de 2023-09-15 13-39-56](https://github.com/GuilhermeRubido/GuilhermeRubido/assets/99998674/face8cbf-3f55-40ff-85b0-6c1ec1698b25)
+
 https://my-portfolio-ten-khaki.vercel.app/
 
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:rubidoguilherme@gmail.com)
